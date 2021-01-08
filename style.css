@@ -9,7 +9,6 @@ ul{
         list-style-type: none;
         margin: 0;
         padding: 0;
-        overflow: hidden;
         background-color: white;
         width: 60;
 }
@@ -29,6 +28,8 @@ li a{
 }
 .half-width{
     font-weight: 700;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
 .link-button{
     background-image: linear-gradient(45deg,salmon,tomato);
@@ -40,4 +41,44 @@ li a{
 .half-width img{
     float: right;
 }
-
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.dream-area img{
+    float: left;
+}
+.container{
+    margin-right: 20px;
+    padding-bottom: 30px;
+}
+.tony{
+    padding-bottom: 20px;
+}
+.steve-rogers img{
+    width: 30%;
+    
+}
+.steve-rogers{
+    text-align: center;
+    
+}
+.ant-man{
+    float: left;
+    float: right;
+}
+.diana img{
+    width: 50%;
+    height: 100%;
+    background-image: linear-gradient(45deg,white,blue);
+    
+}
+.diana{
+    text-align: center;
+}
+.icon-bar img{
+    width: 5%;
+}
+.icon-bar{
+    text-align: center;
+}
